@@ -7,3 +7,4 @@ dev 内容2
 dev <-- bug (已在issue-1分支修复)
 dev content3
 dev learngit2
+dev learngit
