@@ -4,4 +4,4 @@
 新创建了一个分支：dev
 创建了一个新的分支：feature1，msater分支中的内容第四次更新
 dev 内容2
-dev <-- bug
+dev <-- bug (已在issue-1分支修复)
