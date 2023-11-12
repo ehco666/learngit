@@ -5,11 +5,12 @@
 创建了一个新的分支：feature1，msater分支中的内容第四次更新
 dev 内容2
 dev <-- bug (已在issue-1分支修复)
-dev content3
+dev learngit1
 dev learngit2
-dev learngit
+dev content 3
 dev content 4 learngit2
 dev learngit content 5
 dev learngit2 content 6
 dev learngit content 7
 dev learngit content 8
+dev learngit2 content 9
