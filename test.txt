@@ -8,3 +8,7 @@ dev <-- bug (已在issue-1分支修复)
 dev content3
 dev learngit2
 dev learngit
+dev content 4 learngit2
+dev learngit content 5
+dev learngit2 content 6
+dev learngit content 7
